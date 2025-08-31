@@ -34,8 +34,6 @@ _Categorical inputs are handled appropriately within the model pipeline._
 ## ⚙️ How to Run
 
 1. **Clone the repository**
-
-```bash
 git clone https://github.com/yourusername/employee-attrition-app.git
 cd employee-attrition-app
 Install dependencies
@@ -45,21 +43,21 @@ Run the Streamlit app
 
 streamlit run app.py
 
-🗃️ Files Included
+## 🗃️ Files Included
 File	Description
 app.py	Main Streamlit app script
 attrition_model.joblib	Trained ML model using scikit-learn
 requirements.txt	Python dependencies
 README.md	Project documentation
 
-💡 Model Info
+## 💡 Model Info
 Model Type: Trained using scikit-learn (e.g. Logistic Regression)
 
 Saved as: attrition_model.joblib
 
 Output: Yes (Will Leave) or No (Will Stay)
 
-🙌 Credits
+## 🙌 Credits
 Built with ❤️ using:
 Python
 Streamlit
@@ -67,4 +65,4 @@ Pandas
 scikit-learn
 Joblib
 
-streamlit app link :  https://bhuman-17-employee-attrition---logistic-regression-app-omk6ng.streamlit.app/
+## streamlit app link :  https://bhuman-17-employee-attrition---logistic-regression-app-omk6ng.streamlit.app/
